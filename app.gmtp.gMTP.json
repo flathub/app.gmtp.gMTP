@@ -65,8 +65,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://gmtp.app/releases/gmtp-2.0.4.tar.xz",
-                    "sha256" : "a9b0812bd0bafedf2ce963a8feb5312641d6542752a626062d5960b17f7de8c0"
+                    "url" : "https://gmtp.app/releases/gmtp-2.0.6.tar.xz",
+                    "sha256" : "b60adf4e2cf6b4863379a653605fad14b7289f19fca9e40e7cc906c20df4d766"
                 }
             ],
             "config-opts" : [
